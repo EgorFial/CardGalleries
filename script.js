@@ -1,6 +1,3 @@
-
-alert(`Click on any pictures`)
-
 const slides = document.querySelectorAll('.slide');
 
 for(const slide of slides){
